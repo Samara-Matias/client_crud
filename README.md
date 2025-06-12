@@ -50,7 +50,7 @@ client-crud/
 ├── config.php
 ├── index.html
 ├── .gitignore
-├── instruçoes.php
+├── instruçoesSql.php
 
 ````
 
