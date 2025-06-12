@@ -2,7 +2,6 @@
 
 ---
 
-- Esse simples gerenciador de clientes foi feito para completar um teste proposto para uma vaga de desenvolverdor(a).
 - Nesse documento será descrito como rodas essa aplicação localmente em sua máquina para que você possa testar.
 
 # CRUD de Clientes com PHP (Procedural) + MySQL + AJAJ
@@ -79,9 +78,9 @@ client-crud/
 
 3. **Crie o banco de dados:**
 
-   * Acesse: http://localhost/phpmyadmin ou clique no botão **admin** presente ao lado do botão para iniciar o MySQL ndo XAMPP.
+   * Acesse: http://localhost/phpmyadmin ou clique no botão **admin** presente ao lado do botão para iniciar o MySQL do XAMPP.
 
-   * Vá até a aba **SQL** e copie e cole o código presente dentro do arquivo **instruçoesSql.sql** ou importe diretamente o arquivo **instruçoesSql.sql**;
+   * Vá até a aba **SQL** e copie e cole o código presente dentro do arquivo **instrucoesSql.sql** ou importe diretamente o arquivo **instrucoesSql.sql**;
 
 4. **Configurando a aplicação para comunicação com o banco de dados**
    
